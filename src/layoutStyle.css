@@ -1,0 +1,44 @@
+main, header{
+    background-color: rgb(249, 241, 254);
+   }
+   .footer-content li{
+       list-style: none;
+   }
+   .footer-content a{
+       text-decoration: none;
+       color:white;
+   }
+   .hdl-maincontent{
+       margin-top: 20px;
+   }
+   .product_category a{
+       text-decoration: none;
+       color:rgb(255, 145, 0);
+   }
+   .slide-text{
+       position: absolute; 
+       top: 50%;
+       left: 80%; 
+       transform: translate(-50%, -50%);  
+       color: rgb(0, 0, 0); 
+   }
+   button{
+       border:hidden;
+       padding: 5px;
+       border-radius: 10px;
+   }
+   .slide-text1{
+       position: absolute; 
+       top: 50%;
+       left:20%; 
+       transform: translate(-50%, -50%);  
+       color: rgb(0, 0, 0); 
+   }
+   .slide-text2{
+       position: absolute; 
+       top: 50%; 
+       left:50%;
+       text-align: center;
+       transform: translate(-50%, -50%);  
+       color: rgb(0, 0, 0); 
+   }
